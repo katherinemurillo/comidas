@@ -1,0 +1,28 @@
+.titulo1
+{
+    color: darkorange;
+    background-color: beige;
+
+}
+body{
+    background-image: url(https://img.freepik.com/vector-premium/ilustracion-personaje-dibujos-animados-chef-femenina_82446-113.jpg?w=2000);
+    background-size: 1080px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 700px;
+}
+.button
+{
+    background-color: coral;
+
+}
+.button p{
+    color: black;
+}
+.body2{
+    background-image: url(https://img.freepik.com/vector-premium/ilustracion-personaje-dibujos-animados-chef-femenina_82446-113.jpg?w=2000);
+    background-size: 1080px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 350px;
+}
